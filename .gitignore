@@ -1,0 +1,6 @@
+# ignore ALL .log files
+*.log
+
+# ignore ALL files in checkpoints and virutal doc directory
+.ipynb_checkpoints/
+.virtual_documents/
